@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/leticiazooe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiazooe&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiazooe&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiazooe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiazooe&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
   ##
@@ -16,6 +16,9 @@
   <img align="center" alt="Leticia-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="David-Github" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="David-Vscode" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  
+<img align="center" alt="David-Vscode" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+
 
   ##
   
