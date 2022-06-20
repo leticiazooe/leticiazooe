@@ -18,6 +18,9 @@
  - Criatividade
  - Inteligência emocional
  - Adaptabilidade
+ - Produtividade
+ - Força de vontade e esforço 
+ - Responsabilidade
  
  ##
  ### • ʜᴀʀᴅ sᴋɪʟʟs
