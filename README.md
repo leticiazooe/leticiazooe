@@ -1,6 +1,6 @@
 
 ### Olá! Eu sou a Letícia ✨
- • Estudante Análise e Desenvolvimento de Sistemas. 
+ • Estudante de Análise e Desenvolvimento de Sistemas. 
 
 ##
 <div align="center">
