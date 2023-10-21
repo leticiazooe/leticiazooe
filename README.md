@@ -2,6 +2,12 @@
 ### Olá! Eu sou a Letícia ✨
  • Estudante de Análise e Desenvolvimento de Sistemas. 
 
+
+ <div align="center">
+    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=LuigiBelanda&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> 
+    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiBelanda&&layout=compact&hide=shell&theme=midnight-purple"/>
+</div>
+
 ##
 <div align="center">
   <a href="https://github.com/leticiazooe">
