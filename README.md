@@ -19,7 +19,6 @@
 <a href="https://www.facebook.com/profile.php?id=100077759297065" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
 ##
 
-##
 ### • ɪɴᴛᴇʀᴇssᴇs
  <img align="center" alt="csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
  <img align="center" alt="figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
