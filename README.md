@@ -4,8 +4,8 @@
 Tenho 21 anos, atualmente eu moro em Monte Alto, São Paulo. 
 
 💻 **Stack:** HTML5, CSS3 e JavaScript  
-📚 **Aprendizado Atual:** PostgreSQL
-🏆 **Conquistas:** Certificado por Horna ao Mérito, ganhado por participar de um projeto de Análise de Dados. 
+📚 **Aprendizado Atual:** PostgreSQL, Python
+
    
 
  <div align="center">
