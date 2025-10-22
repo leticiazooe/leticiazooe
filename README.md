@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou a Letícia ✨
  • Estudante de Análise e Desenvolvimento de Sistemas, com previsão de término para o fim de 2025.
-Tenho 21 anos, atualmente eu moro em Monte Alto, São Paulo. 
+Tenho 22 anos, atualmente eu moro em Monte Alto, São Paulo. 
 
 💻 **Stack:** HTML5, CSS3 e JavaScript  
 📚 **Aprendizado Atual:** PostgreSQL, Python
@@ -32,10 +32,7 @@ Tenho 21 anos, atualmente eu moro em Monte Alto, São Paulo.
     <img align="center" alt="python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
     <img align="center" alt="dotnet#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
     <img align="center" alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-         
-  
 </div>
-
 
 ##
 ### • ᴄᴇʀᴛɪғɪᴄᴀᴅᴏs
