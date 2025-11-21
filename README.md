@@ -12,11 +12,11 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">• Estudante de Análise e Desenvolvimento de Sistemas, com previsão de término para o fim de 2025. Tenho 22 anos, atualmente eu moro em Monte Alto, São Paulo.</p>
 
 ###
 
-<h6 align="left">Minhas redes sociais</h6>
+<h4 align="left">Minhas redes sociais</h4>
 
 ###
 
@@ -97,7 +97,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=leticiazooe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=calm&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leticiazooe&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=calm&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
-
-###
 
 ###
