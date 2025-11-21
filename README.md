@@ -100,10 +100,4 @@
 
 ###
 
-<h3 align="left">🔥   Minhas Estatísticas:</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/leticiazooe/leticiazooe/output/snake.svg" alt="Snake animation" />
-
 ###
