@@ -12,7 +12,10 @@
 
 ###
 
-<p align="left">• Formada em Análise e Desenvolvimento de Sistemas. Tenho 22 anos, atualmente eu moro em Monte Alto, São Paulo.</p>
+<p align="left">• Tenho 22 anos, atualmente eu moro em Monte Alto, São Paulo.</p>
+<p align="left">• Formada em Análise e Desenvolvimento de Sistemas - FATEC Taquaritinga </p>
+<p align="left">• Pós Graduanda em Engenharia de Controle e Automação - UNINTER </p>
+
 
 ###
 
