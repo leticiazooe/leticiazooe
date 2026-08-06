@@ -96,3 +96,25 @@
 
 ###
 
+<h3 align="left">🐍 Minhas contribuições</h3>
+
+###
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/leticiazooe/leticiazooe/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/leticiazooe/leticiazooe/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Animação do gráfico de contribuições do GitHub"
+      src="https://raw.githubusercontent.com/leticiazooe/leticiazooe/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</div>
+
+###
