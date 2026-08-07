@@ -84,7 +84,7 @@ Minha trajetória conecta desenvolvimento de software, automação de processos,
 
 <div align="center">
 
-### Desenvolvimento
+### Desenvolvimento web e desktop
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
 <img width="10" />
@@ -103,12 +103,14 @@ Minha trajetória conecta desenvolvimento de software, automação de processos,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
-<img width="10" />
+
+<br/><br/>
+
+### Bibliotecas e recursos do Atrix PDM
+
 <img src="https://raw.githubusercontent.com/leticiazooe/leticiazooe/main/assets/tkinter.svg" height="40" alt="Tkinter" title="Tkinter" />
 <img width="10" />
 <img src="https://raw.githubusercontent.com/leticiazooe/leticiazooe/main/assets/ttkbootstrap.svg" height="40" alt="ttkbootstrap" title="ttkbootstrap" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" title="SQLite" />
 <img width="10" />
 <img src="https://raw.githubusercontent.com/leticiazooe/leticiazooe/main/assets/python-docx.svg" height="40" alt="python-docx" title="python-docx" />
 <img width="10" />
@@ -118,7 +120,7 @@ Minha trajetória conecta desenvolvimento de software, automação de processos,
 
 <br/><br/>
 
-### Dados, versionamento e desenvolvimento
+### Bancos de dados e versionamento
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" title="SQL Server" />
 <img width="10" />
@@ -126,10 +128,18 @@ Minha trajetória conecta desenvolvimento de software, automação de processos,
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
 <img width="10" />
-<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" title="SQLite" />
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
 <img width="10" />
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" title="GitHub Actions" />
+
+<br/><br/>
+
+### IDEs e ambientes de desenvolvimento
+
 <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="Eclipse" title="Eclipse" />
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code" title="Visual Studio Code" />
@@ -150,36 +160,40 @@ Minha trajetória conecta desenvolvimento de software, automação de processos,
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="Notion" title="Notion" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
+### Plataformas, processos e engenharia
 
 ![Fluig](https://img.shields.io/badge/Fluig-BPM%20%7C%20ECM-008E7A?style=flat-square)
 ![BPMN](https://img.shields.io/badge/BPMN-Processos-7C3AED?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![APIs REST](https://img.shields.io/badge/APIs_REST-161B22?style=flat-square&logo=fastapi&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-Dados_e_indicadores-F2C811?style=flat-square&logo=powerbi&logoColor=111827)
+![APIs REST](https://img.shields.io/badge/APIs_REST-Integrações-161B22?style=flat-square&logo=openapiinitiative&logoColor=white)
 ![KeyCreator](https://img.shields.io/badge/KeyCreator-CAD_3D-1E3A5F?style=flat-square)
 ![Protheus](https://img.shields.io/badge/Protheus-Integrações-0A66C2?style=flat-square)
+
+<br/><br/>
+
+### Tecnologias em aprofundamento
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/framer/0055FF" height="40" alt="Motion for React" title="Motion for React" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions e CI/CD" title="GitHub Actions e CI/CD" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Design Systems e Storybook" title="Design Systems e Storybook" />
 
 </div>
 
 ## Stack do Atrix PDM
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-Aplicação_desktop-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-Interface_desktop-306998?style=for-the-badge&logo=python&logoColor=white)
-![ttkbootstrap](https://img.shields.io/badge/ttkbootstrap-UI_e_temas-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-Banco_local-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![python-docx](https://img.shields.io/badge/python--docx-Documentos_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
-![pytesseract](https://img.shields.io/badge/pytesseract-Integração_OCR-5A45FF?style=for-the-badge)
-![Tesseract OCR](https://img.shields.io/badge/Tesseract-OCR_de_imagens-4285F4?style=for-the-badge&logo=googlelens&logoColor=white)
-![SHA-256](https://img.shields.io/badge/SHA--256-Integridade_de_arquivos-161B22?style=for-the-badge&logo=letsencrypt&logoColor=white)
-
-</div>
 
 <table>
   <tr>
@@ -203,28 +217,6 @@ Minha trajetória conecta desenvolvimento de software, automação de processos,
     </td>
   </tr>
 </table>
-
-## Tecnologias em aprofundamento
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/framer/0055FF" height="40" alt="Motion for React" title="Motion for React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="APIs REST" title="APIs REST" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions e CI/CD" title="GitHub Actions e CI/CD" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Design Systems" title="Design Systems" />
-</div>
 
 ## Projetos em destaque
 
