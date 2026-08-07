@@ -154,6 +154,44 @@ Minha trajetória conecta desenvolvimento de software, automação de processos,
 
 </div>
 
+## Stack do Atrix PDM
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-Aplicação_desktop-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-Interface_desktop-306998?style=for-the-badge&logo=python&logoColor=white)
+![ttkbootstrap](https://img.shields.io/badge/ttkbootstrap-UI_e_temas-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-Banco_local-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![python-docx](https://img.shields.io/badge/python--docx-Documentos_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+![pytesseract](https://img.shields.io/badge/pytesseract-Integração_OCR-5A45FF?style=for-the-badge)
+![Tesseract OCR](https://img.shields.io/badge/Tesseract-OCR_de_imagens-4285F4?style=for-the-badge&logo=googlelens&logoColor=white)
+![SHA-256](https://img.shields.io/badge/SHA--256-Integridade_de_arquivos-161B22?style=for-the-badge&logo=letsencrypt&logoColor=white)
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Aplicação e interface</h3>
+      <p><strong>Python</strong> como linguagem principal, com interface desktop construída em <strong>Tkinter</strong> e componentes visuais do <strong>ttkbootstrap</strong>.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Dados e documentos</h3>
+      <p><strong>SQLite</strong> com migrações não destrutivas, <strong>python-docx</strong> para documentos Word e <strong>pytesseract/Tesseract</strong> para OCR.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Integridade e rastreabilidade</h3>
+      <p>Uso de hashes <strong>SHA-256</strong> para validar arquivos, apoiar auditorias e preservar a integridade dos documentos técnicos.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Escopo técnico</h3>
+      <p>Gestão de arquivos CAD, versões, check-in/check-out, bloqueios, permissões, workflow, BOM, OCR, cópias controladas e histórico.</p>
+    </td>
+  </tr>
+</table>
+
 ## Aprendizagem atual
 
 <div align="center">
@@ -173,8 +211,8 @@ Minha trajetória conecta desenvolvimento de software, automação de processos,
     <td width="50%" valign="top">
       <h3>⚙️ Atrix PDM</h3>
       <p>Sistema para gestão, versionamento e governança de documentos técnicos CAD.</p>
-      <p><code>Python</code> <code>SQL</code> <code>JavaScript</code> <code>CAD</code></p>
-      <sub>Controle de versões · check-in/out · permissões · workflow · BOM · OCR</sub>
+      <p><code>Python</code> <code>Tkinter</code> <code>ttkbootstrap</code> <code>SQLite</code> <code>python-docx</code> <code>pytesseract</code> <code>CAD</code></p>
+      <sub>Controle de versões · check-in/out · permissões · workflow · BOM · OCR · SHA-256</sub>
     </td>
     <td width="50%" valign="top">
       <h3>◇ Interactive BPMN Process Explorer</h3>
