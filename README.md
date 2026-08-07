@@ -25,7 +25,7 @@
 
 ## Sobre mim
 
-<h3>Sou formada em <strong>Análise e Desenvolvimento de Sistemas</strong>, pós-graduanda em <strong>Engenharia de Controle e Automação</strong> e atualmente atuo como <strong>Desenhista Industrial / Mechanical Designer</strong>.</h3>
+<h3>Sou formada em Análise e Desenvolvimento de Sistemas, pós-graduanda em Engenharia de Controle e Automação e atualmente atuo como Desenhista Industrial / Mechanical Designer.</h3>
 
 <h3>Minha trajetória conecta desenvolvimento de software, automação de processos, dados e engenharia industrial. Gosto de compreender problemas reais, estruturar requisitos e transformar necessidades operacionais em soluções funcionais, documentadas e aplicáveis.</h3>
 
