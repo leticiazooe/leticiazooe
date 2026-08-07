@@ -25,27 +25,27 @@
 
 ## Sobre mim
 
-Sou formada em **Análise e Desenvolvimento de Sistemas**, pós-graduanda em **Engenharia de Controle e Automação** e atualmente atuo como **Desenhista Industrial / Mechanical Designer**.
+<p><big>Sou formada em <strong>Análise e Desenvolvimento de Sistemas</strong>, pós-graduanda em <strong>Engenharia de Controle e Automação</strong> e atualmente atuo como <strong>Desenhista Industrial / Mechanical Designer</strong>.</big></p>
 
-Minha trajetória conecta desenvolvimento de software, automação de processos, dados e engenharia industrial. Gosto de compreender problemas reais, estruturar requisitos e transformar necessidades operacionais em soluções funcionais, documentadas e aplicáveis.
+<p><big>Minha trajetória conecta desenvolvimento de software, automação de processos, dados e engenharia industrial. Gosto de compreender problemas reais, estruturar requisitos e transformar necessidades operacionais em soluções funcionais, documentadas e aplicáveis.</big></p>
 
 ### Atuação profissional
 
-Desenvolvimento de aplicações web e desktop, processos Fluig, BPMN, ECM, APIs, integrações, dashboards, automações e documentação técnica.
+<p><big>Desenvolvimento de aplicações web e desktop, processos Fluig, BPMN, ECM, APIs, integrações, dashboards, automações e documentação técnica.</big></p>
 
-Modelagem CAD 3D, detalhamento 2D, revisão de desenhos e desenvolvimento de soluções para gestão de arquivos técnicos.
+<p><big>Modelagem CAD 3D, detalhamento 2D, revisão de desenhos e desenvolvimento de soluções para gestão de arquivos técnicos.</big></p>
 
 ### Formação
 
 <div>
-  <h4>● Engenharia de Controle e Automação</h4>
-  <p><strong>UNINTER</strong> · Pós-graduação em andamento</p>
+  <h3>● Engenharia de Controle e Automação</h3>
+  <p><big><strong>UNINTER</strong> · Pós-graduação em andamento</big></p>
 
-  <h4>● Análise e Desenvolvimento de Sistemas</h4>
-  <p><strong>FATEC Taquaritinga</strong></p>
+  <h3>● Análise e Desenvolvimento de Sistemas</h3>
+  <p><big><strong>FATEC Taquaritinga</strong></big></p>
 
-  <h4>● Mecânico de Usinagem Convencional</h4>
-  <p><strong>SENAI Matão</strong> · 800 horas</p>
+  <h3>● Mecânico de Usinagem Convencional</h3>
+  <p><big><strong>SENAI Matão</strong> · 800 horas</big></p>
 </div>
 
 ## Linguagens, frameworks e ferramentas
