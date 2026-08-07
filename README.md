@@ -103,6 +103,18 @@ Minha trajetória conecta desenvolvimento de software, automação de processos,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
 <img width="10" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
+<img width="10" />
+<img src="https://raw.githubusercontent.com/leticiazooe/leticiazooe/main/assets/tkinter.svg" height="40" alt="Tkinter" title="Tkinter" />
+<img width="10" />
+<img src="https://raw.githubusercontent.com/leticiazooe/leticiazooe/main/assets/ttkbootstrap.svg" height="40" alt="ttkbootstrap" title="ttkbootstrap" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" title="SQLite" />
+<img width="10" />
+<img src="https://raw.githubusercontent.com/leticiazooe/leticiazooe/main/assets/python-docx.svg" height="40" alt="python-docx" title="python-docx" />
+<img width="10" />
+<img src="https://raw.githubusercontent.com/leticiazooe/leticiazooe/main/assets/tesseract-ocr.svg" height="40" alt="pytesseract e Tesseract OCR" title="pytesseract / Tesseract OCR" />
+<img width="10" />
+<img src="https://raw.githubusercontent.com/leticiazooe/leticiazooe/main/assets/sha256.svg" height="40" alt="SHA-256" title="SHA-256" />
 
 <br/><br/>
 
