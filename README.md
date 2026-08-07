@@ -25,27 +25,27 @@
 
 ## Sobre mim
 
-<h3>Sou formada em Análise e Desenvolvimento de Sistemas, pós-graduanda em Engenharia de Controle e Automação e atualmente atuo como Desenhista Industrial / Mechanical Designer.</h3>
+Sou formada em Análise e Desenvolvimento de Sistemas, pós-graduanda em Engenharia de Controle e Automação e atualmente atuo como Desenhista Industrial / Mechanical Designer.
 
-<h3>Minha trajetória conecta desenvolvimento de software, automação de processos, dados e engenharia industrial. Gosto de compreender problemas reais, estruturar requisitos e transformar necessidades operacionais em soluções funcionais, documentadas e aplicáveis.</h3>
+Minha trajetória conecta desenvolvimento de software, automação de processos, dados e engenharia industrial. Gosto de compreender problemas reais, estruturar requisitos e transformar necessidades operacionais em soluções funcionais, documentadas e aplicáveis.
 
 ### Atuação profissional
 
-<h3>Desenvolvimento de aplicações web e desktop, processos Fluig, BPMN, ECM, APIs, integrações, dashboards, automações e documentação técnica.</h3>
+Desenvolvimento de aplicações web e desktop, processos Fluig, BPMN, ECM, APIs, integrações, dashboards, automações e documentação técnica.
 
-<h3>Modelagem CAD 3D, detalhamento 2D, revisão de desenhos e desenvolvimento de soluções para gestão de arquivos técnicos.</h3>
+Modelagem CAD 3D, detalhamento 2D, revisão de desenhos e desenvolvimento de soluções para gestão de arquivos técnicos.
 
 ### Formação
 
 <div>
-  <h3>● Engenharia de Controle e Automação</h3>
-  <h4>UNINTER · Pós-graduação em andamento</h4>
+  <h4>● Engenharia de Controle e Automação</h4>
+  <p>UNINTER · Pós-graduação em andamento</p>
 
-  <h3>● Análise e Desenvolvimento de Sistemas</h3>
-  <h4>FATEC Taquaritinga</h4>
+  <h4>● Análise e Desenvolvimento de Sistemas</h4>
+  <p>FATEC Taquaritinga</p>
 
-  <h3>● Mecânico de Usinagem Convencional</h3>
-  <h4>SENAI Matão · 800 horas</h4>
+  <h4>● Mecânico de Usinagem Convencional</h4>
+  <p>SENAI Matão · 800 horas</p>
 </div>
 
 ## Linguagens, frameworks e ferramentas
