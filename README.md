@@ -29,21 +29,30 @@ Sou formada em **Análise e Desenvolvimento de Sistemas**, pós-graduanda em **E
 
 Minha trajetória conecta desenvolvimento de software, automação de processos, dados e engenharia industrial. Gosto de compreender problemas reais, estruturar requisitos e transformar necessidades operacionais em soluções funcionais, documentadas e aplicáveis.
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <h3>Atuação profissional</h3>
-      <p>Desenvolvimento de aplicações web e desktop, processos Fluig, BPMN, ECM, APIs, integrações, dashboards, automações e documentação técnica.</p>
-      <p>Modelagem CAD 3D, detalhamento 2D, revisão de desenhos e desenvolvimento de soluções para gestão de arquivos técnicos.</p>
-    </td>
-    <td width="45%" valign="top">
-      <h3>Formação</h3>
-      <p><strong>Engenharia de Controle e Automação</strong><br/><sub>UNINTER · Pós-graduação em andamento</sub></p>
-      <p><strong>Análise e Desenvolvimento de Sistemas</strong><br/><sub>FATEC Taquaritinga</sub></p>
-      <p><strong>Mecânico de Usinagem Convencional</strong><br/><sub>SENAI Matão · 800 horas</sub></p>
-    </td>
-  </tr>
-</table>
+### Atuação profissional
+
+Desenvolvimento de aplicações web e desktop, processos Fluig, BPMN, ECM, APIs, integrações, dashboards, automações e documentação técnica.
+
+Modelagem CAD 3D, detalhamento 2D, revisão de desenhos e desenvolvimento de soluções para gestão de arquivos técnicos.
+
+### Formação
+
+<div>
+  <p>
+    <strong>● Engenharia de Controle e Automação</strong><br/>
+    <sub>&nbsp;&nbsp;&nbsp;&nbsp;UNINTER · Pós-graduação em andamento</sub><br/>
+    <sub>&nbsp;&nbsp;&nbsp;&nbsp;│</sub>
+  </p>
+  <p>
+    <strong>● Análise e Desenvolvimento de Sistemas</strong><br/>
+    <sub>&nbsp;&nbsp;&nbsp;&nbsp;FATEC Taquaritinga</sub><br/>
+    <sub>&nbsp;&nbsp;&nbsp;&nbsp;│</sub>
+  </p>
+  <p>
+    <strong>● Mecânico de Usinagem Convencional</strong><br/>
+    <sub>&nbsp;&nbsp;&nbsp;&nbsp;SENAI Matão · 800 horas</sub>
+  </p>
+</div>
 
 ## Linguagens, frameworks e ferramentas
 
