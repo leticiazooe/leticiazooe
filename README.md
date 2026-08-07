@@ -25,27 +25,27 @@
 
 ## Sobre mim
 
-<p><big>Sou formada em <strong>Análise e Desenvolvimento de Sistemas</strong>, pós-graduanda em <strong>Engenharia de Controle e Automação</strong> e atualmente atuo como <strong>Desenhista Industrial / Mechanical Designer</strong>.</big></p>
+<h3>Sou formada em <strong>Análise e Desenvolvimento de Sistemas</strong>, pós-graduanda em <strong>Engenharia de Controle e Automação</strong> e atualmente atuo como <strong>Desenhista Industrial / Mechanical Designer</strong>.</h3>
 
-<p><big>Minha trajetória conecta desenvolvimento de software, automação de processos, dados e engenharia industrial. Gosto de compreender problemas reais, estruturar requisitos e transformar necessidades operacionais em soluções funcionais, documentadas e aplicáveis.</big></p>
+<h3>Minha trajetória conecta desenvolvimento de software, automação de processos, dados e engenharia industrial. Gosto de compreender problemas reais, estruturar requisitos e transformar necessidades operacionais em soluções funcionais, documentadas e aplicáveis.</h3>
 
 ### Atuação profissional
 
-<p><big>Desenvolvimento de aplicações web e desktop, processos Fluig, BPMN, ECM, APIs, integrações, dashboards, automações e documentação técnica.</big></p>
+<h3>Desenvolvimento de aplicações web e desktop, processos Fluig, BPMN, ECM, APIs, integrações, dashboards, automações e documentação técnica.</h3>
 
-<p><big>Modelagem CAD 3D, detalhamento 2D, revisão de desenhos e desenvolvimento de soluções para gestão de arquivos técnicos.</big></p>
+<h3>Modelagem CAD 3D, detalhamento 2D, revisão de desenhos e desenvolvimento de soluções para gestão de arquivos técnicos.</h3>
 
 ### Formação
 
 <div>
   <h3>● Engenharia de Controle e Automação</h3>
-  <p><big><strong>UNINTER</strong> · Pós-graduação em andamento</big></p>
+  <h4>UNINTER · Pós-graduação em andamento</h4>
 
   <h3>● Análise e Desenvolvimento de Sistemas</h3>
-  <p><big><strong>FATEC Taquaritinga</strong></big></p>
+  <h4>FATEC Taquaritinga</h4>
 
   <h3>● Mecânico de Usinagem Convencional</h3>
-  <p><big><strong>SENAI Matão</strong> · 800 horas</big></p>
+  <h4>SENAI Matão · 800 horas</h4>
 </div>
 
 ## Linguagens, frameworks e ferramentas
