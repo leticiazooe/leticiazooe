@@ -1,0 +1,56 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="1198" height="318" rx="18" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="2"/>
+
+  <g opacity="0.3" stroke="#D8DEE4">
+    <path d="M0 64H1200"/>
+    <path d="M0 128H1200"/>
+    <path d="M0 192H1200"/>
+    <path d="M200 0V320"/>
+    <path d="M400 0V320"/>
+    <path d="M600 0V320"/>
+    <path d="M800 0V320"/>
+    <path d="M1000 0V320"/>
+  </g>
+
+  <rect x="50" y="42" width="154" height="154" rx="77" fill="#F6F8FA" stroke="#8250DF" stroke-width="2"/>
+  <circle cx="127" cy="119" r="60" fill="#8250DF" fill-opacity="0.10"/>
+  <text x="127" y="139" fill="#1F2328" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700" text-anchor="middle">LV</text>
+
+  <text x="238" y="72" fill="#1A7F37" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="2">PROFESSIONAL HUB</text>
+  <text x="238" y="118" fill="#1F2328" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="700">Letícia Vitória</text>
+  <text x="238" y="151" fill="#424A53" font-family="Segoe UI, Arial, sans-serif" font-size="18">Tecnologia, dados e engenharia conectados para transformar processos.</text>
+  <text x="238" y="181" fill="#656D76" font-family="Segoe UI, Arial, sans-serif" font-size="15">Desenhista Industrial  •  Desenvolvimento de Sistemas  •  Automação de Processos</text>
+
+  <rect x="973" y="48" width="174" height="32" rx="16" fill="#DAFBE1" stroke="#1A7F37"/>
+  <circle cx="993" cy="64" r="5" fill="#1A7F37"/>
+  <text x="1008" y="69" fill="#116329" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">OPEN TO CONNECT</text>
+
+  <g>
+    <rect x="50" y="222" width="257" height="66" rx="10" fill="#F6F8FA" stroke="#D0D7DE"/>
+    <text x="72" y="251" fill="#1F2328" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="700">3</text>
+    <text x="72" y="272" fill="#656D76" font-family="Segoe UI, Arial, sans-serif" font-size="12">PILARES PROFISSIONAIS</text>
+    <path d="M274 241H286V253H274V241Z" stroke="#8250DF" stroke-width="2"/>
+  </g>
+
+  <g>
+    <rect x="331" y="222" width="257" height="66" rx="10" fill="#F6F8FA" stroke="#D0D7DE"/>
+    <text x="353" y="251" fill="#1F2328" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="700">20+</text>
+    <text x="353" y="272" fill="#656D76" font-family="Segoe UI, Arial, sans-serif" font-size="12">SOLUÇÕES E PROJETOS</text>
+    <path d="M555 245L561 239L567 245L561 251L555 245Z" stroke="#0969DA" stroke-width="2"/>
+  </g>
+
+  <g>
+    <rect x="612" y="222" width="257" height="66" rx="10" fill="#F6F8FA" stroke="#D0D7DE"/>
+    <text x="634" y="251" fill="#1F2328" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="700">6</text>
+    <text x="634" y="272" fill="#656D76" font-family="Segoe UI, Arial, sans-serif" font-size="12">UNIDADES ATENDIDAS</text>
+    <circle cx="842" cy="245" r="8" stroke="#1A7F37" stroke-width="2"/>
+  </g>
+
+  <g>
+    <rect x="893" y="222" width="257" height="66" rx="10" fill="#F6F8FA" stroke="#D0D7DE"/>
+    <text x="915" y="251" fill="#1F2328" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="700">3k</text>
+    <text x="915" y="272" fill="#656D76" font-family="Segoe UI, Arial, sans-serif" font-size="12">AMBIENTE CORPORATIVO</text>
+    <circle cx="1122" cy="241" r="4" fill="#1F2328"/>
+    <path d="M1114 256C1114 250.477 1117.58 247 1122 247C1126.42 247 1130 250.477 1130 256" stroke="#1F2328" stroke-width="2" stroke-linecap="round"/>
+  </g>
+</svg>
