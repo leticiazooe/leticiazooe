@@ -38,20 +38,14 @@ Modelagem CAD 3D, detalhamento 2D, revisão de desenhos e desenvolvimento de sol
 ### Formação
 
 <div>
-  <p>
-    <strong>● Engenharia de Controle e Automação</strong><br/>
-    <sub>&nbsp;&nbsp;&nbsp;&nbsp;UNINTER · Pós-graduação em andamento</sub><br/>
-    <sub>&nbsp;&nbsp;&nbsp;&nbsp;│</sub>
-  </p>
-  <p>
-    <strong>● Análise e Desenvolvimento de Sistemas</strong><br/>
-    <sub>&nbsp;&nbsp;&nbsp;&nbsp;FATEC Taquaritinga</sub><br/>
-    <sub>&nbsp;&nbsp;&nbsp;&nbsp;│</sub>
-  </p>
-  <p>
-    <strong>● Mecânico de Usinagem Convencional</strong><br/>
-    <sub>&nbsp;&nbsp;&nbsp;&nbsp;SENAI Matão · 800 horas</sub>
-  </p>
+  <h4>● Engenharia de Controle e Automação</h4>
+  <p><strong>UNINTER</strong> · Pós-graduação em andamento</p>
+
+  <h4>● Análise e Desenvolvimento de Sistemas</h4>
+  <p><strong>FATEC Taquaritinga</strong></p>
+
+  <h4>● Mecânico de Usinagem Convencional</h4>
+  <p><strong>SENAI Matão</strong> · 800 horas</p>
 </div>
 
 ## Linguagens, frameworks e ferramentas
