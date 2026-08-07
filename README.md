@@ -157,26 +157,6 @@ Minha trajetória conecta desenvolvimento de software, automação de processos,
 ![KeyCreator](https://img.shields.io/badge/KeyCreator-CAD_3D-1E3A5F?style=flat-square)
 ![Protheus](https://img.shields.io/badge/Protheus-Integrações-0A66C2?style=flat-square)
 
-<br/><br/>
-
-### Tecnologias em aprofundamento
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
-<img width="10" />
-<img src="https://cdn.simpleicons.org/framer/0055FF" height="40" alt="Motion for React" title="Motion for React" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions e CI/CD" title="GitHub Actions e CI/CD" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook e Design Systems" title="Storybook e Design Systems" />
-
 </div>
 
 ## Stack do Atrix PDM
