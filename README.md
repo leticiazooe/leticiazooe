@@ -159,64 +159,6 @@ Minha trajetória conecta desenvolvimento de software, automação de processos,
 
 </div>
 
-## Stack do Atrix PDM
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Aplicação e interface</h3>
-      <p><strong>Python</strong> como linguagem principal, com interface desktop construída em <strong>Tkinter</strong> e componentes visuais do <strong>ttkbootstrap</strong>.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Dados e documentos</h3>
-      <p><strong>SQLite</strong> com migrações não destrutivas, <strong>python-docx</strong> para documentos Word e <strong>pytesseract/Tesseract</strong> para OCR.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Integridade e rastreabilidade</h3>
-      <p>Uso de hashes <strong>SHA-256</strong> para validar arquivos, apoiar auditorias e preservar a integridade dos documentos técnicos.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Escopo técnico</h3>
-      <p>Gestão de arquivos CAD, versões, check-in/check-out, bloqueios, permissões, workflow, BOM, OCR, cópias controladas e histórico.</p>
-    </td>
-  </tr>
-</table>
-
-## Projetos em destaque
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ Atrix PDM</h3>
-      <p>Sistema para gestão, versionamento e governança de documentos técnicos CAD.</p>
-      <p><code>Python</code> <code>Tkinter</code> <code>ttkbootstrap</code> <code>SQLite</code> <code>python-docx</code> <code>pytesseract</code> <code>CAD</code></p>
-      <sub>Controle de versões · check-in/out · permissões · workflow · BOM · OCR · SHA-256</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>◇ Interactive BPMN Process Explorer</h3>
-      <p>Plataforma para importar, analisar, visualizar, documentar e editar processos BPMN.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>BPMN 2.0</code> <code>XML</code></p>
-      <sub>Exploração interativa · análise de processos · documentação</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>▦ Interactive Database Schema Explorer</h3>
-      <p>Aplicação para interpretar scripts SQL e gerar diagramas relacionais interativos.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>SQL Server</code></p>
-      <sub>Busca · filtros · metadados · relacionamentos · exportação</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>◉ Portfólio profissional</h3>
-      <p>Apresentação da minha trajetória em tecnologia, processos, dados e engenharia.</p>
-      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-      <a href="https://github.com/leticiazooe/portfolio-leticia-profissional">Ver repositório →</a>
-    </td>
-  </tr>
-</table>
-
 ## Contribuições
 
 <div align="center">
