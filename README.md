@@ -104,15 +104,16 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/leticiazooe/leticiazooe/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/leticiazooe/leticiazooe/output/github-contribution-grid-snake-dark.svg?v=20260806-2"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/leticiazooe/leticiazooe/output/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/leticiazooe/leticiazooe/output/github-contribution-grid-snake.svg?v=20260806-2"
     />
     <img
       alt="Animação do gráfico de contribuições do GitHub"
-      src="https://raw.githubusercontent.com/leticiazooe/leticiazooe/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/leticiazooe/leticiazooe/output/github-contribution-grid-snake.svg?v=20260806-2"
+      width="100%"
     />
   </picture>
 </div>
