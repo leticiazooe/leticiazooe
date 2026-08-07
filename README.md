@@ -45,41 +45,6 @@ Minha trajetória conecta desenvolvimento de software, automação de processos,
   </tr>
 </table>
 
-## Visão geral do GitHub
-
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=leticiazooe&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;locale=pt-br&amp;bg_color=0D1117&amp;border_color=30363D&amp;title_color=F0F6FC&amp;text_color=8B949E&amp;icon_color=A371F7"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=leticiazooe&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;locale=pt-br&amp;bg_color=FFFFFF&amp;border_color=D0D7DE&amp;title_color=1F2328&amp;text_color=656D76&amp;icon_color=8250DF"
-    />
-    <img
-      height="180"
-      alt="Estatísticas do perfil de Letícia no GitHub"
-      src="https://github-readme-stats.vercel.app/api?username=leticiazooe&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;locale=pt-br"
-    />
-  </picture>
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiazooe&amp;layout=compact&amp;langs_count=8&amp;bg_color=0D1117&amp;border_color=30363D&amp;title_color=F0F6FC&amp;text_color=8B949E"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiazooe&amp;layout=compact&amp;langs_count=8&amp;bg_color=FFFFFF&amp;border_color=D0D7DE&amp;title_color=1F2328&amp;text_color=656D76"
-    />
-    <img
-      height="180"
-      alt="Linguagens mais utilizadas nos repositórios públicos"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiazooe&amp;layout=compact&amp;langs_count=8"
-    />
-  </picture>
-</div>
-
 ## Linguagens, frameworks e ferramentas
 
 <div align="center">
