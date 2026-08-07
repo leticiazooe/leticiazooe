@@ -80,23 +80,64 @@ Minha trajetória conecta desenvolvimento de software, automação de processos,
   </picture>
 </div>
 
-## Tech Stack & Ferramentas
+## Linguagens, frameworks e ferramentas
 
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,jquery,python,postgres,mysql,git,github,vscode,figma&amp;theme=dark&amp;perline=8"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,jquery,python,postgres,mysql,git,github,vscode,figma&amp;theme=light&amp;perline=8"
-    />
-    <img
-      alt="Tecnologias e ferramentas utilizadas por Letícia"
-      src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,jquery,python,postgres,mysql,git,github,vscode,figma&amp;perline=8"
-    />
-  </picture>
+
+### Desenvolvimento
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery" title="jQuery" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
+
+<br/><br/>
+
+### Dados, versionamento e desenvolvimento
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" title="SQL Server" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
+<img width="10" />
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+<img width="10" />
+<img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="Eclipse" title="Eclipse" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code" title="Visual Studio Code" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" title="Visual Studio" />
+
+<br/><br/>
+
+### Design, documentação e produtividade
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" title="Canva" />
+<img width="10" />
+<img src="https://skillicons.dev/icons?i=ps" height="40" alt="Adobe Photoshop" title="Adobe Photoshop" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="Behance" title="Behance" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="Notion" title="Notion" />
+
 </div>
 
 <br/>
@@ -111,6 +152,18 @@ Minha trajetória conecta desenvolvimento de software, automação de processos,
 ![KeyCreator](https://img.shields.io/badge/KeyCreator-CAD_3D-1E3A5F?style=flat-square)
 ![Protheus](https://img.shields.io/badge/Protheus-Integrações-0A66C2?style=flat-square)
 
+</div>
+
+## Aprendizagem atual
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
 </div>
 
 ## Projetos em destaque
