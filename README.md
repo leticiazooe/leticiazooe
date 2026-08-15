@@ -127,6 +127,16 @@ Modelagem CAD 3D, detalhamento 2D, revisão de desenhos e desenvolvimento de sol
 
 </div>
 
+## Projeto em destaque
+
+### 📦 [Extrator Automático de ZIP](https://github.com/leticiazooe/extrator-automatico-zip)
+
+Utilitário para Windows desenvolvido em Python que monitora a pasta **Downloads**, detecta novos arquivos ZIP e organiza automaticamente o arquivo original e o conteúdo extraído. O projeto usa apenas a biblioteca padrão do Python e inclui validações de segurança contra caminhos maliciosos e sobrescrita silenciosa.
+
+[![Ver repositório](https://img.shields.io/badge/Ver_repositório-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leticiazooe/extrator-automatico-zip)
+
+> Se o projeto for útil para você, considere deixar uma ⭐ no repositório.
+
 ## Contribuições
 
 <div align="center">
