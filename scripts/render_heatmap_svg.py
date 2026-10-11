@@ -177,9 +177,10 @@ def render(data):
     rng = data["range"]
 
     ly = sep_y + 24
+    total_pt = f"{total:,}".replace(",", ".")
     # left column: big highlighted numbers; right column: context in muted
     parts.append(f'<text x="{PAD}" y="{ly}" font-size="13" fill="{GREEN}">'
-                 f'<tspan font-weight="700">{total:,}</tspan>'.replace(",", ".")
+                 f'<tspan font-weight="700">{total_pt}</tspan>'
                  f'<tspan fill="{MUTED}"> contribuições no último ano</tspan></text>')
     parts.append(f'<text x="{canvas_w - PAD}" y="{ly}" font-size="12" fill="{MUTED}" text-anchor="end">'
                  f'{datetime.date.fromisoformat(rng["start"]).strftime("%d/%m/%Y")} &#8594; {datetime.date.fromisoformat(rng["end"]).strftime("%d/%m/%Y")}</text>')
