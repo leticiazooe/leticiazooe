@@ -52,8 +52,12 @@ BAR_STAGGER = 0.06
 BAR_DUR = 0.6
 
 
+MESES_ABR = ("Jan", "Fev", "Mar", "Abr", "Mai", "Jun", "Jul", "Ago", "Set", "Out", "Nov", "Dez")
+
+
 def short(d):
-    return datetime.date.fromisoformat(d).strftime("%d %b")
+    data = datetime.date.fromisoformat(d)
+    return f"{data.day:02d} {MESES_ABR[data.month - 1]}"
 
 
 def span(s):
@@ -66,17 +70,18 @@ n_days = len(data["days"])
 
 # (label, value, suffix, caption, accent)
 tiles = [
-    ("current streak", cur["length"], " days", span(cur), GREEN),
-    ("longest streak", lng["length"], " days", span(lng), INK),
-    ("contributions", data["total_contributions"], "", "in the last year", INK),
-    ("active days", data["active_days"], f" / {n_days}", f'{data["active_days"] / n_days:.0%} of the year', INK),
-    ("best day", best["count"], "", short(best["date"]), INK),
-    ("avg / active day", data["avg_per_active_day"], "", "contributions", INK),
+    ("sequência atual", cur["length"], " dias", span(cur), GREEN),
+    ("maior sequência", lng["length"], " dias", span(lng), INK),
+    ("contribuições", data["total_contributions"], "", "no último ano", INK),
+    ("dias ativos", data["active_days"], f" / {n_days}", f'{data["active_days"] / n_days:.0%} dos dias', INK),
+    ("melhor dia", best["count"], "", short(best["date"]), INK),
+    ("média / dia ativo", data["avg_per_active_day"], "", "contribuições", INK),
 ]
 
 
 def fmt(v, like):
-    return f"{v:,.1f}" if isinstance(like, float) else f"{int(round(v)):,}"
+    return (f"{v:,.1f}".replace(",", "_").replace(".", ",").replace("_", ".")
+            if isinstance(like, float) else f"{int(round(v)):,}".replace(",", "."))
 
 
 parts = [
@@ -98,7 +103,7 @@ parts = [
 for i, dot in enumerate(["#ff5f56", "#ffbd2e", "#27c93f"]):
     parts.append(f'<circle cx="{PAD + i*16}" cy="{TITLEBAR_H/2}" r="5" fill="{dot}"/>')
 parts.append(f'<text x="{W/2}" y="{TITLEBAR_H/2 + 4}" fill="{MUTED}" font-size="12" '
-             f'text-anchor="middle">leticia@github: ~$ ./stats.sh</text>')
+             f'text-anchor="middle">leticia@github: ~$ ./estatisticas.sh</text>')
 
 # ---- stat tiles ----------------------------------------------------------
 for i, (label, value, suffix, caption, accent) in enumerate(tiles):
@@ -138,7 +143,7 @@ chart_h = H - PAD - CHART_TOP
 parts.append(f'<g class="t" style="animation-delay:{BAR_START - 0.3:.2f}s">')
 parts.append(f'<rect x="{chart_x}" y="{CHART_TOP}" width="{chart_w}" height="{chart_h}" rx="10" '
              f'fill="{TILE}" stroke="{FRAME}"/>')
-parts.append(f'<text x="{chart_x+24}" y="{CHART_TOP+40}" fill="{MUTED}" font-size="22">$ contributions / month</text>')
+parts.append(f'<text x="{chart_x+24}" y="{CHART_TOP+40}" fill="{MUTED}" font-size="22">$ contribuições por mês</text>')
 parts.append('</g>')
 
 plot_top = CHART_TOP + 64
@@ -154,12 +159,12 @@ for i, m in enumerate(monthly):
     delay = BAR_START + i * BAR_STAGGER
     parts.append(f'<rect class="b" x="{bx:.1f}" y="{plot_bot - h:.1f}" width="{bar_w:.1f}" height="{h:.1f}" '
                  f'rx="3" fill="{fill}" style="animation-delay:{delay:.2f}s"/>')
-    mon = datetime.date.fromisoformat(m["month"] + "-01").strftime("%b")[0]
+    mon = MESES_ABR[datetime.date.fromisoformat(m["month"] + "-01").month - 1][0]
     parts.append(f'<text x="{bx + bar_w/2:.1f}" y="{plot_bot + 28}" fill="{MUTED}" font-size="18" '
                  f'text-anchor="middle">{mon}</text>')
     if m["total"] == peak:
         parts.append(f'<text class="t" style="animation-delay:{delay + BAR_DUR:.2f}s" x="{bx + bar_w/2:.1f}" '
-                     f'y="{plot_bot - h - 10:.1f}" fill="{INK}" font-size="18" text-anchor="middle">{peak:,}</text>')
+                     f'y="{plot_bot - h - 10:.1f}" fill="{INK}" font-size="18" text-anchor="middle">{fmt(peak, peak)}</text>')
 
 parts.append('</svg>')
 svg = "".join(parts)
