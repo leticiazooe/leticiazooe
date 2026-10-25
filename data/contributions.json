@@ -1,22 +1,22 @@
 {
   "username": "leticiazooe",
-  "generated_at": "2026-10-24T11:11:16Z",
+  "generated_at": "2026-10-25T11:40:49Z",
   "range": {
-    "start": "2025-10-19",
-    "end": "2026-10-24"
+    "start": "2025-10-26",
+    "end": "2026-10-25"
   },
-  "total_contributions": 4654,
-  "active_days": 101,
-  "avg_per_active_day": 46.1,
+  "total_contributions": 4680,
+  "active_days": 100,
+  "avg_per_active_day": 46.8,
   "current_streak": {
-    "length": 54,
+    "length": 56,
     "start": "2026-08-31",
-    "end": "2026-10-23"
+    "end": "2026-10-25"
   },
   "longest_streak": {
-    "length": 54,
+    "length": 56,
     "start": "2026-08-31",
-    "end": "2026-10-23"
+    "end": "2026-10-25"
   },
   "best_day": {
     "date": "2026-08-05",
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-10",
-      "total": 12
+      "total": 7
     },
     {
       "month": "2025-11",
@@ -41,7 +41,7 @@
     },
     {
       "month": "2026-02",
-      "total": 12
+      "total": 11
     },
     {
       "month": "2026-03",
@@ -73,45 +73,10 @@
     },
     {
       "month": "2026-10",
-      "total": 1464
+      "total": 1496
     }
   ],
   "days": [
-    {
-      "date": "2025-10-19",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-20",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-21",
-      "count": 1,
-      "level": 1
-    },
-    {
-      "date": "2025-10-22",
-      "count": 1,
-      "level": 1
-    },
-    {
-      "date": "2025-10-23",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-24",
-      "count": 3,
-      "level": 1
-    },
-    {
-      "date": "2025-10-25",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-10-26",
       "count": 0,
@@ -734,7 +699,7 @@
     },
     {
       "date": "2026-02-27",
-      "count": 9,
+      "count": 8,
       "level": 1
     },
     {
@@ -1929,8 +1894,13 @@
     },
     {
       "date": "2026-10-24",
-      "count": 0,
-      "level": 0
+      "count": 8,
+      "level": 1
+    },
+    {
+      "date": "2026-10-25",
+      "count": 24,
+      "level": 1
     }
   ]
 }
